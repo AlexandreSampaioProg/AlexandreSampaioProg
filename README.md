@@ -2,7 +2,7 @@
 
 ### Quer me conhecer?
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexandre-sampaio-553a77285/)
-[![Currículo](https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://www.blogger.com/u/3/blog/post/edit/preview/7561447252528901753/5060361719727701412)
+[![Currículo](https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://programadorcurriculo10.blogspot.com/2024/04/informacoes-pessoais.html)
 ###
 Currículo em googledocs: 
 (https://docs.google.com/document/d/1K6yKZOX7Mz7Yo6Lit5chDjP0_vdQsxrvJrTxGcZFAUg/edit?usp=sharing)
