@@ -4,11 +4,11 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexandre-sampaio-553a77285/)
 [![Currículo](https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://www.blogger.com/u/3/blog/post/edit/preview/7561447252528901753/5060361719727701412)
 ###
-Currículo em pdf: 
+Currículo em googledocs: 
 (https://docs.google.com/document/d/1K6yKZOX7Mz7Yo6Lit5chDjP0_vdQsxrvJrTxGcZFAUg/edit?usp=sharing)
 
 ### Que tal me chamar para uma entrevista?
-[![E-mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://alexandresampaioprog@gmail.com)
+[![E-mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](alexandresampaioprog@gmail.com)
 
 ![Alexandre Sampaio GitHub stats](https://github-readme-stats.vercel.app/api?username=AlexandreSampaioProg&show_icons=true&theme=radical)
 
